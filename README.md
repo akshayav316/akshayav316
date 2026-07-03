@@ -25,7 +25,7 @@ Computer Science Undergraduate passionate about Artificial Intelligence, Workflo
 
 ## 📌 Featured Project
 
-### FreelanceOS AI CRM
+### 🚀 [FreelanceOS AI CRM](https://github.com/akshayav316/FreelanceOS-AI-CRM)
 
 An AI-powered CRM that automates email classification, lead tracking, follow-ups, and Gmail draft generation using n8n, OpenAI, Gmail, and Google Sheets.
 
