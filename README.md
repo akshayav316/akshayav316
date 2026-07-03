@@ -40,12 +40,6 @@ An AI-powered CRM that automates email classification, lead tracking, follow-ups
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayav316&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayav316&layout=compact&theme=github_dark)
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/akshaya-v-0199233ab/
