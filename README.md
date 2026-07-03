@@ -1,6 +1,6 @@
 # Hi, I'm Akshaya 👋
 
-Computer Science Undergraduate passionate about Artificial Intelligence, Workflow Automation, and Software Development.
+Computer Science Undergraduate passionate about Artificial Intelligence, Workflow Automation, and Software Development. I enjoy building real-world projects that solve practical problems and continuously learning new technologies.
 
 ---
 
