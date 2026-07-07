@@ -1,47 +1,82 @@
 # Hi, I'm Akshaya 👋
 
-Computer Science Undergraduate passionate about Artificial Intelligence, Workflow Automation, and Software Development. I enjoy building real-world projects that solve practical problems and continuously learning new technologies.
+Computer Science Undergraduate passionate about Artificial Intelligence, Software Development, Workflow Automation, and Intelligent Systems.
+
+I enjoy building AI-powered applications that solve real-world problems while continuously strengthening my software engineering and problem-solving skills.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech Computer Science student at Dayananda Sagar University
-- 🤖 Currently participating in the IBM SkillsBuild AI Automation & Intelligent Solutions Internship
-- 💡 Passionate about building AI-powered applications that solve real-world problems
-- 🌱 Continuously learning C++, Data Structures & Algorithms, and AI technologies
+- 💻 Aspiring Software Development Engineer (SDE)
+- 🤖 AI Automation & Intelligent Systems Enthusiast
+- 🚀 Currently building AI-powered workflow automation projects using n8n, Gemini AI, and Google Workspace
+- 🌱 Currently learning
+  - C++
+  - Data Structures & Algorithms
+  - AI Agents
+  - Workflow Automation
+  - Software Development
+- 💡 Passionate about transforming ideas into real-world software solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
+
+### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### AI & Automation
+
+![Gemini](https://img.shields.io/badge/Gemini%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
+### Tools
 
-## 📌 Featured Project
-
-### 🚀 [FreelanceOS AI CRM](https://github.com/akshayav316/FreelanceOS-AI-CRM)
-
-An AI-powered CRM that automates email classification, lead tracking, follow-ups, and Gmail draft generation using n8n, OpenAI, Gmail, and Google Sheets.
+Git • GitHub • Google Sheets • Gmail API • Telegram • AI Agents
 
 ---
 
-## 🎯 Current Goals
+# 🚀 Featured Project
 
-- Build impactful AI projects
-- Strengthen DSA with C++
-- Explore AI Agents & Automation
-- Contribute to open-source projects
+## 🤖 FreelanceOS AI CRM v2
+
+An AI-powered CRM automation platform that processes client inquiries, detects duplicate leads, automates follow-ups, generates Gmail draft replies, creates AI business insights, and includes a RAG-powered CRM Copilot.
+
+### Key Features
+
+- 🤖 AI Lead Processing
+- 🔍 Duplicate Lead Detection
+- 📊 AI Business Dashboard
+- 📈 Executive Business Insights
+- 📅 Automated Follow-up System
+- 📩 Gmail Draft Automation
+- 📲 Telegram Notifications
+- 💬 AI CRM Copilot (RAG)
+
+Repository:
+https://github.com/akshayav316/FreelanceOS-AI-CRM-v2
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Current Goals
 
-- LinkedIn: https://www.linkedin.com/in/akshaya-v-0199233ab/
+- Build impactful AI software projects
+- Become a skilled Software Development Engineer
+- Master C++ and Data Structures & Algorithms
+- Learn Full Stack Development
+- Explore AI Agents and Intelligent Systems
+- Contribute to Open Source
 
-⭐ Build. Grow. Serve.
+---
+
+# 📫 Connect With Me
+
+LinkedIn
+
+https://www.linkedin.com/in/akshaya-v-0199233ab/
+
+⭐ Keep Learning • Keep Building • Keep Growing
